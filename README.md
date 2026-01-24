@@ -9,7 +9,7 @@ Frontend Developer with hands-on experience building responsive, client-facing w
 I value readable code, practical problem-solving, and building interfaces that are reliable, scalable, and easy to maintain.
 
 * 🌍  I'm based in india
-* 🖥️  See my portfolio at [Link](http://kuldeep-sharma.vercel.app)
+* 🖥️  See my portfolio at [Here](http://kuldeep-sharma.vercel.app)
 * ✉️  You can contact me at [rhnkldp@gmail.com](mailto:rhnkldp@gmail.com)
 * 🧠  I'm currently learning Learning advanced React concepts with a focus on user flow and application structure, while building backend understanding using Firebase to support real-world frontend workflows.
 
