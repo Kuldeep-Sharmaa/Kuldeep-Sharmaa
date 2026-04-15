@@ -1,13 +1,3 @@
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Kuldeep-Sharmaa.Kuldeep-Sharmaa&"  />
-</div>
-
-###
-
-
-
-###
-
 <h1 align="center">Hi, I'm Kuldeep Sharma</h1>
 
 ###
@@ -69,4 +59,7 @@
   </a>
 </div>
 
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Kuldeep-Sharmaa.Kuldeep-Sharmaa&"  />
+</div>
 ###
