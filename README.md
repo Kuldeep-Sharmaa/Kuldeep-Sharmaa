@@ -7,8 +7,10 @@
 ###
 
 <p align="left">Based in India | Frontend Developer (React, JavaScript)<br>Currently focused on:<br>- building reliable UI with React<br>- handling async data and state properly<br>- working with Firebase (Auth, Firestore, Cloud Functions)</p>
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Kuldeep-Sharmaa.Kuldeep-Sharmaa&"  />
+</div>
 
-###
 
 <h3 align="left">Language and tools :</h3>
 
@@ -60,7 +62,5 @@
 </div>
 
 
-###
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Kuldeep-Sharmaa.Kuldeep-Sharmaa&"  />
-</div>
+
+
