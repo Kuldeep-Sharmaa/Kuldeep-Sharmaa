@@ -6,7 +6,10 @@
 
 ###
 
-<p align="left">Based in India | Frontend Developer (React, JavaScript)<br>Currently focused on:<br>- building reliable UI with React<br>- handling async data and state properly<br>- working with Firebase (Auth, Firestore, Cloud Functions)</p>
+<p align="left">Frontend Developer based in India.
+I build with React, JavaScript, and Firebase -
+Currently working on RemindrAI, a SaaS that handles 
+scheduling logic, Cloud Functions, and LLM API integration.</p>
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Kuldeep-Sharmaa.Kuldeep-Sharmaa&"  />
 </div>
