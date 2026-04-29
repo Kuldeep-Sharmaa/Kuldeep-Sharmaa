@@ -55,10 +55,7 @@ scheduling logic, Cloud Functions, and LLM API integration.</p>
   
   <a href="https://www.linkedin.com/in/kuldeep-sharma-015619307" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://x.com/RohanKS140" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  </a>
+ 
 </div>
 
 <div align="center">
