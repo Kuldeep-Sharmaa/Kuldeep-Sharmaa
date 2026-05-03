@@ -44,18 +44,18 @@ scheduling logic, Cloud Functions, and LLM API integration.</p>
 
 <h3 align="left">My Stats :</h3>
 
-###
+
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Kuldeep-Sharmaa&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
+  ###
+  <div align="center">
 
-
-
-<div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Kuldeep-Sharmaa.Kuldeep-Sharmaa&"  />
 </div>
+ 
 
 
 
