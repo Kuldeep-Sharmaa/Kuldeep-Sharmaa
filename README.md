@@ -7,7 +7,7 @@
 ###
 
 <p align="left">Frontend Developer based in India.
-I build with React, JavaScript, and Firebase -
+I build with React, Typescript, JavaScript, and Firebase.
 Currently working on RemindrAI, a SaaS that handles 
 scheduling logic, Cloud Functions, and LLM API integration.</p>
 
