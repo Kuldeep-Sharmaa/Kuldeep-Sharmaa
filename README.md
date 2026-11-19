@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">About Me :</h3>
+<h3 align="left">About Me</h3>
 
 ###
 
@@ -12,14 +12,14 @@ Currently working on RemindrAI, a SaaS that handles
 scheduling logic, Cloud Functions, and LLM API integration.</p>
 
 
-<h3 align="left">What I build with: </h3>
+<h3 align="left">What I build with</h3>
 
 ###
 
 <div align="left">
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,bootstrap,firebase,gcp,git,github,vscode" alt="Tech stack" />
+    <img src="https://skillicons.dev/icons?i=react,vite,nextjs,ts,js,tailwind,bootstrap,firebase,gcp,git,github,vscode" alt="Tech stack" />
   </a>
 </p>
 
