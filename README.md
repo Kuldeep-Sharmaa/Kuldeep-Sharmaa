@@ -24,6 +24,7 @@ scheduling logic, Cloud Functions, and LLM API integration.</p>
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/GSAP%20-0055FF?style=for-the-badge&logo=gsap&logoColor=white" alt="GSAP" />
   <img src="https://img.shields.io/badge/shadcn%2Fui-27272A?style=for-the-badge&logo=shadcnui&logoColor=white" alt="shadcn/ui" />
   <img src="https://img.shields.io/badge/Framer%20Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion" />
 </p>
