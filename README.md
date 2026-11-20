@@ -19,7 +19,7 @@ scheduling logic, Cloud Functions, and LLM API integration.</p>
 <div align="left">
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,vite,nextjs,ts,js,tailwind,bootstrap,firebase,gcp,git,github,vscode" alt="Tech stack" />
+    <img src="https://skillicons.dev/icons?i=react,vite,nextjs,ts,js,tailwind,bootstrap,firebase,gcp,git,vercel,github,vscode" alt="Tech stack" />
   </a>
 </p>
 
